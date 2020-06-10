@@ -1,0 +1,2 @@
+model_checkpoint_path: "tcd.cpkt"
+all_model_checkpoint_paths: "tcd.cpkt"

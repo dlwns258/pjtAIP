@@ -1,0 +1,2 @@
+model_checkpoint_path: "WN_learn.cpkt"
+all_model_checkpoint_paths: "WN_learn.cpkt"

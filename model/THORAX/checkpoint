@@ -1,0 +1,2 @@
+model_checkpoint_path: "hyungbu_ct.cpkt"
+all_model_checkpoint_paths: "hyungbu_ct.cpkt"
